@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState } from "react"
 import "./index.css";
 import DuelCanvas from "./DuelCanvas";
 import ControlPanel from "./ControlPanel";

@@ -1,4 +1,3 @@
-import React from "react";
 const MIN_SPEED=1;
 const MAX_SPEED=5;
 const MIN_FREQUENCY=1;

@@ -1,4 +1,4 @@
-import React, { useRef, useEffect, useState, useCallback } from "react";
+import { useRef, useEffect, useState, useCallback } from "react";
 
 const SPELL_RADIUS = 5;
 const HERO_RADIUS = 20;
